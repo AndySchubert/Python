@@ -1,2 +1,2 @@
 # Python
-Learnings
+Personal Learnings
