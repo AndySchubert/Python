@@ -23,5 +23,5 @@ class Solution:
 
 s = Solution()
 
-print(s.fib(7))
-print(s.fibIterative(7))
+print(s.fib(10))
+print(s.fibIterative(10))
